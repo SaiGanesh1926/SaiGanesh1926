@@ -8,5 +8,5 @@ Cybersecurity- �� Currently learning: Spring Boot, MongoDB, and GitHub Actio
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
 ## �� GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiGanesh1926&amp;show_icons=true&amp;theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiGanesh&amp;layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiGanesh1926&amp;layout=compact)
 ## �� Connect with Me- ✉️ Email: slsganesh19@gmail.com- �� LinkedIn: [Sai Ganesh Profile](https://linkedin.com/in/SaiGanesh)
